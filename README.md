@@ -1,4 +1,4 @@
-<h1>LIRI Bot<h1>
+LIRI Bot
 
 
 Overview
